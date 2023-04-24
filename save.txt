@@ -1,0 +1,26 @@
+2
+11 9
+<html>Został utworzony Wilk na {1,6}<br></html>
+Lis 8 2 1 3 7 1
+Wilk 4 5 1 9 5 1
+Wilk 10 7 1 9 5 1
+Owca 3 3 1 4 4 1
+Owca 5 6 1 4 4 1
+Antylopa 4 3 1 4 4 1
+Człowiek 3 2 1 5 4 1 1 4 10
+Żółw 1 1 1 2 1 0
+Barszcz Sosnowskiego 6 3 1 10 0 0
+Guarana 7 4 1 0 0 0
+Mlecz 9 8 1 0 0 0
+Trawa 5 4 1 0 0 0
+Wilcze Jagody 6 0 1 99 0 0
+Guarana 8 5 1 0 0 0
+Mlecz 8 8 1 0 0 0
+Wilcze Jagody 6 1 1 99 0 0
+Lis 2 7 1 3 7 0
+Wilk 2 6 1 9 5 0
+Wilk 3 7 1 9 5 0
+Wilk 3 8 1 9 5 0
+Wilk 2 8 1 9 5 0
+Wilk 1 7 1 9 5 0
+Wilk 1 6 1 9 5 0
